@@ -5,6 +5,7 @@ public class StaticWorkFlow {
     static int age =100;
 
     static {
+
         m1();
         System.out.println("First static block");
     }
